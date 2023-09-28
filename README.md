@@ -36,6 +36,52 @@ This course is designed to provide you with a comprehensive introduction to the 
 
 To get started, simply click on the links above for the week you're currently on. You'll find lecture notes, code examples, and assignments to complete.
 
+## Usage
+
+- Clone the repository
+
+```bash
+
+```
+
+- Navigate to the `data-science` directory
+
+```bash
+cd data-science
+```
+
+- Create a python virtual environment `venv`
+
+  - For Windows
+
+    ```bash
+    virtualenv venv
+    ```
+
+    - Activate `venv`
+
+    ```
+    venv\Scripts\activate
+    ```
+
+  - For Ubuntu
+
+    ```bash
+    python3 -m venv venv
+    ```
+
+    - Activate `venv`
+
+    ```bash
+    source venv/bin/activate
+    ```
+
+- Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Join Our Community
 
 We're excited to have you on this data-driven journey with us! If you have any questions or need assistance, feel free to reach out.
