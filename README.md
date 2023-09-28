@@ -41,7 +41,7 @@ To get started, simply click on the links above for the week you're currently on
 - Clone the repository
 
 ```bash
-
+git clone https://github.com/prajeshElEvEn/data-science.git
 ```
 
 - Navigate to the `data-science` directory
